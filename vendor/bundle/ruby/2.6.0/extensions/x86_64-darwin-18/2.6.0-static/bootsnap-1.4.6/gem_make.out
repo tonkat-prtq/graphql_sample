@@ -1,0 +1,15 @@
+current directory: /Users/k2t/workspace/graphql_sample/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+/Users/k2t/.rbenv/versions/2.6.5/bin/ruby -I /Users/k2t/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20200405-924-1wt7xo9.rb extconf.rb
+creating Makefile
+
+current directory: /Users/k2t/workspace/graphql_sample/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/k2t/workspace/graphql_sample/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/k2t/workspace/graphql_sample/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20200405-924-qc9ic2/bootsnap
